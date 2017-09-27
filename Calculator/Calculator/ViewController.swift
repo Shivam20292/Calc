@@ -4,13 +4,15 @@
 //
 //  Created by Student on 2017-09-22.
 //  Copyright © 2017 Centennial College. All rights reserved.
-//
+
+// Took reference from different YouTube tutorials including Stanford university tutorials and swift guy
+
 
 import UIKit
 
 class ViewController: UIViewController {
 
-    var numberOnLabel:Double =  0;
+    var numberOnLabel:Double =  0;  // Initialize the Display Label to 0
     var previousNumber:Double = 0;
     var performOperations = false
     var operation = 0;
