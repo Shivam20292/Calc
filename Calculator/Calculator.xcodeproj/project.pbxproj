@@ -12,6 +12,7 @@
 		3FEE064E1F75E33900CDFCE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FEE064C1F75E33900CDFCE0 /* Main.storyboard */; };
 		3FEE06501F75E33900CDFCE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FEE064F1F75E33900CDFCE0 /* Assets.xcassets */; };
 		3FEE06531F75E33900CDFCE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FEE06511F75E33900CDFCE0 /* LaunchScreen.storyboard */; };
+		40C1E7B51F7B490E00D0020D /* CalcOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C1E7B41F7B490E00D0020D /* CalcOperations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3FEE064F1F75E33900CDFCE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FEE06521F75E33900CDFCE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FEE06541F75E33900CDFCE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40C1E7B41F7B490E00D0020D /* CalcOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcOperations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3FEE06481F75E33900CDFCE0 /* AppDelegate.swift */,
 				3FEE064A1F75E33900CDFCE0 /* ViewController.swift */,
+				40C1E7B41F7B490E00D0020D /* CalcOperations.swift */,
 				3FEE064C1F75E33900CDFCE0 /* Main.storyboard */,
 				3FEE064F1F75E33900CDFCE0 /* Assets.xcassets */,
 				3FEE06511F75E33900CDFCE0 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				3FEE064B1F75E33900CDFCE0 /* ViewController.swift in Sources */,
 				3FEE06491F75E33900CDFCE0 /* AppDelegate.swift in Sources */,
+				40C1E7B51F7B490E00D0020D /* CalcOperations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
