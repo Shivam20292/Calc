@@ -4,6 +4,12 @@
 //
 //  Created by Student on 2017-09-22.
 //  Copyright © 2017 Centennial College. All rights reserved.
+// File Name : Calculator
+// Student Name : Shivam Shah
+// Student ID : 300877523
+// Date : 27/09/2017
+// Description : This is a basic calculator app that performs binary operations like addition, substraction, multiplication and division. This app also allows user to reset the display label using "C" button.
+
 
 // Took reference from different YouTube tutorials including Stanford university tutorials and swift guy
 
