@@ -22,7 +22,7 @@ import Foundation
     
         //    "+" : Operation.BinaryOperation({ $0 + $1 }),
             
-            "+" : Operation.BinaryOperation({ $0 + $1}),
+            "+" : Operation.BinaryOperation({ $0  + $1}),
             
             "−" : Operation.BinaryOperation({ $0 - $1 }),
             
@@ -81,5 +81,5 @@ import Foundation
         }
 
 }
+ */
 
-*/
